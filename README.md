@@ -37,9 +37,10 @@ OpenSCAD는 `/Applications/OpenSCAD.app`에 있는 것을 씁니다. 다른 위�
 
 ## 모델 목록
 
-| 모델 | 설명 |
-|---|---|
-| [skadis-hair-dryer-holder](models/skadis-hair-dryer-holder/) | IKEA SKÅDIS 타공판용 헤어드라이어 거치대 |
+| 모델 | 설명 | MakerWorld |
+|---|---|---|
+| [skadis-hair-dryer-holder](models/skadis-hair-dryer-holder/) | IKEA SKÅDIS 타공판용 헤어드라이어 거치대 | [3682340](https://makerworld.com/ko/models/3682340-ikea-skadis-hair-dryer-holder-with-cord-hook) |
+| [ikea-eilif-screen-connector](models/ikea-eilif-screen-connector/) | IKEA EILIF 스크린 커넥터 | [2495648](https://makerworld.com/ko/models/2495648-ikea-eilif-screen-connector) |
 
 ## 라이선스
 

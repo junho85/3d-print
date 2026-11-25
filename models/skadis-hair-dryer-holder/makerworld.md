@@ -1,8 +1,8 @@
 # MakerWorld 등록 내용
 
-2026-11-25 23:05에 게시 제출했다. 제출 직후 상태는 "인증 중"(MakerWorld 검토 대기)이다.
+2026-11-25 23:05에 게시 제출했고, 같은 날 검토가 끝나 공개됐다.
 
-- 내 모델 목록: https://makerworld.com/ko/@junho85/verifying
+- 모델 주소: https://makerworld.com/ko/models/3682340-ikea-skadis-hair-dryer-holder-with-cord-hook
 - 라이선스: Creative Commons Attribution-Noncommercial (CC BY-NC)
 - 가시성: 공개
 
